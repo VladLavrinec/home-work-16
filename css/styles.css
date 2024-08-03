@@ -2,8 +2,8 @@
     width: 700px;
     height: 400px;
     background-color: green;
-    background-image: url(/images/home-at-land.jpeg), url(/images/lampochka.png),url(/images/just-grass.png),  url(/images/ijak-png.webp), url(/images/donat.png);
+    background-image: url(../images/home-at-land.jpeg), url(../images/lampochka.png),url(../images/just-grass.png), url(../images/ijak-png.webp), url(../images/donat.png);
     background-size: 50%, 30px, 25%, 20px, 20px;
     background-repeat: no-repeat, repeat-x, repeat-x, repeat-y,repeat-y;
     background-position: center, top, bottom, left, right;
-}
+} 
